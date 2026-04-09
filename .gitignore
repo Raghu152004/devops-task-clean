@@ -1,0 +1,4 @@
+jobs/
+.env
+*.log
+__pycache__/

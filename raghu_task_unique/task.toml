@@ -1,0 +1,8 @@
+[task]
+name = "raghu/raghu_task_unique"
+description = "Fix incorrect average calculation and output issue"
+
+max_tokens = 50 
+
+[environment.runtime]
+python = "3.12"
