@@ -1,2 +1,2 @@
 #!/bin/bash
-python fix_code.py
+python3 /app/main.py
